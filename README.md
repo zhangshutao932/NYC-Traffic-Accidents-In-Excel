@@ -9,4 +9,5 @@ Then by creating custom fields for hours of day, I analyzed the number of accide
 <img width="459" height="455" alt="Screenshot 2026-04-06 at 7 03 53 PM" src="https://github.com/user-attachments/assets/beb389e4-2640-4626-8dfa-212e9f2c31bf" />
 
 Using pivot table, I broke down the count of collisions by contributing factors and sort the top 10 factors. Then I calculated the percentage of each contributing factor by conducting calculations on custom fields. 
+
 <img width="438" height="257" alt="Screenshot 2026-04-06 at 7 03 49 PM" src="https://github.com/user-attachments/assets/26102ebf-8d46-4081-8c73-0e7b49f28818" />
